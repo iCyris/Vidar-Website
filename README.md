@@ -1,2 +1,2 @@
 # Vidar-Website
-Website for Vidar-Team
+Vidar-Team official site.
