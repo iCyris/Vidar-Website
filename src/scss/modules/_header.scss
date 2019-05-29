@@ -11,6 +11,7 @@
         }
         .header__name {
             display: block;
+            font-family: Raleway, Serif;
 
             div {
                 position: absolute;
@@ -22,30 +23,30 @@
     }
 
     @include pc-layout {
-        width: 8%; height: 100%;
+        width: 10%; height: 100%;
         border-right: 1px solid transparentize($theme-color-white, .5);
         text-align: center;
         perspective: 500px;
 
         &::after {
             content: ""; position: absolute;
-            width: .2rem; height: 2rem;
-            right: -.1rem; bottom: -2rem;
+            width: .3rem; height: 3rem;
+            right: -.15rem; bottom: -3rem;
             background-color: $theme-color-white;
             animation: bottom-slide-to-top 3.2s ease .25s infinite;
         }
 
         ._logo {
             position: absolute;
-            width: 100%; height: 30%;
+            width: 100%; height: 25%;
             display: flex;
             flex-wrap: wrap;
 
             .header__logo {
                 position: relative;
-                width: 100%; height: 8vw;
+                width: 100%; height: 10vw;
                 background-size: 65%;
-                margin-top: 5vmin;
+                margin-top: 3vmin;
                 transition: all .3s ease;
                 &:hover, &:active { transform: rotateY(8deg) rotateX(-8deg); }
                 animation: fadein .05s linear alternate 5 forwards;
@@ -56,11 +57,12 @@
                 width: 100%; height: 60%;
 
                 div {
-                    width: 6vh; height: 1rem;
+                    $size: 1rem;
+                    width: 6vh; height: $size;
                     left: calc(50% - 3vh); top: calc(50% - .5rem);
                     transform: rotate(-90deg) translateX(-100%);
-                    font-size: 1rem;
-                    line-height: 1rem;
+                    font-size: $size;
+                    line-height: $size;
                     letter-spacing: .3rem;
                     opacity: 0;
                     animation: fadein .8s ease .25s forwards;

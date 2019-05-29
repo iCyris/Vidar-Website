@@ -1,0 +1,45 @@
+.footer {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+
+    ._sns {
+        position: relative;
+    }
+
+    ._contact {
+        position: relative;
+    }
+
+    @include pc-layout {
+        width: 70%; height: 5vmin;
+        left: 15%; bottom: 10vmin;
+
+        ._sns {
+            a {
+                position: relative;
+                width: 5vmin; height: 5vmin;
+                display: inline-block;
+                margin-right: 1rem;
+                border: 1px solid $theme-color-white;
+            }
+        }
+
+        ._contact {
+            .footer__line {
+                width: 50%; height: 100%;
+                bottom: 0;
+            }
+
+            .footer__email {
+                width: 100%; height: 100%;
+                bottom: 0;
+                font-size: 1rem;
+            }
+        }
+    }
+
+    @include sp-layout {
+
+    }
+}

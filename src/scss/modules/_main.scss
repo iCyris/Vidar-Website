@@ -1,0 +1,115 @@
+._line {
+    position: absolute;
+    width: 3rem; height: 1px;
+    background-color: $theme-color-white;
+
+    &::before, &::after {
+        position: absolute; content: "";
+        width: 1rem; height: 2px;
+        background-color: $theme-color-white;
+    }
+
+    &::before {
+        left: -1rem; top: calc(50% - 1px);
+    }
+
+    &::after {
+        right: -1rem; top: calc(50% - 1px);
+    }
+}
+
+.main {
+    position: absolute;
+
+    // home part
+    ._home {
+        position: absolute;
+        width: 100%; height: 40vmin;
+        left: 0; top: calc(50% - 20vmin);
+
+        .home__subtitle {
+            position: relative;
+            width: 25%; height: 5vmin;
+            margin-right: 75%;
+            margin-bottom: 3vmin;
+            overflow: hidden;
+
+            &::before {
+                content: ""; position: absolute;
+                width: 100%; height: 40vmin;
+                background-color: $theme-color-white;
+                transform-origin: center;
+                transform: translateY(-100%);
+                animation: top-slide-in 4.55s ease .25s forwards;
+            }
+        }
+
+        .home__title {
+            position: relative;
+            width: 60%; height: 24vmin;
+        }
+
+        .home__title-background {
+            position: absolute;
+            width: 100%; height: 100%;
+            background-image: url("../images/background.svg");
+            background-repeat: no-repeat;
+            background-position: left;
+            background-size: 100%;
+            transform: translateX(-8%);
+        }
+
+        .home__title-wrap {
+            position: absolute;
+            width: 100%; height: 100%;
+            overflow: hidden;
+
+            .inner {
+                position: absolute;
+                width: inherit; height: inherit;
+                background-image: url("../images/title@3x.png");
+                background-repeat: no-repeat;
+                background-position: left;
+                background-size: 85%;
+                transform: translateY(100%);
+                transform-origin: bottom;
+                animation: bottom-slide-in .8s ease .25s forwards;
+
+                &::after {
+                    content: ""; position: absolute;
+                    width: 5rem; height: 3px;
+                    background-color: $theme-color-red;
+                    left: 0; bottom: 0;
+                    transform: translateX(-100%);
+                    transform-origin: left;
+                    animation: left-slide-in 1.1s ease .82s forwards;
+                }
+            }
+        }
+
+        .home__slogan {}
+    }
+
+
+    @include pc-layout {
+        width: 70%; height: calc(100% - 18vmin);
+        left: 15%; top: 3vmin;
+    }
+}
+
+/*
+    <div className="_home">
+        <div className="home__subtitle">
+
+        </div>
+        <div className="home__title">
+            <div className="home__title-background" />
+            <div className="home__title-wrap">
+                <div className="inner" />
+            </div>
+        </div>
+        <div className="home__slogan">
+
+        </div>
+    </div>
+ */

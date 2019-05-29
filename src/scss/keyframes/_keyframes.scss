@@ -6,6 +6,7 @@
         opacity: 1;
     }
 }
+
 @keyframes fadeout {
     0% {
         opacity: 1;
@@ -14,11 +15,36 @@
         opacity: 0;
     }
 }
+
 @keyframes bottom-slide-to-top {
     0% {
-        bottom: -2rem;
+        bottom: -3rem;
     }
     100% {
-        bottom: calc(100% + 2rem);
+        bottom: calc(100% + 3rem);
+    }
+}
+@keyframes bottom-slide-in {
+    0% {
+        transform: translateY(100%);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
+@keyframes top-slide-in {
+    0% {
+        transform: translateY(-100%);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
+@keyframes left-slide-in {
+    0% {
+        transform: translateX(-100%);
+    }
+    100% {
+        transform: translateX(0);
     }
 }
