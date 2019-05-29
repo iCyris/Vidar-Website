@@ -5,7 +5,7 @@ export default (props) => (
         <header>
 
         </header>
-        <div className="links">
+        <div className="common-links">
 
         </div>
         <footer>
