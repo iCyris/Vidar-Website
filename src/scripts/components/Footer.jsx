@@ -3,10 +3,10 @@ import React from 'react'
 export default (props) => (
     <div className="footer">
         <div className="_sns">
-            <a className="footer__sns-github" href="https://github.com/vidar-team" target="_blank">
+            <a className="footer__sns-github" href="https://github.com/vidar-team" target="_blank" title="GitHub">
                 <i />
             </a>
-            <a className="footer__sns-weibo" href="https://weibo.com/HDUISA" target="_blank">
+            <a className="footer__sns-weibo" href="https://weibo.com/HDUISA" target="_blank" title="WeiBo">
                 <i />
             </a>
         </div>

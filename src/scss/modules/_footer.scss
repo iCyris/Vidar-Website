@@ -20,12 +20,29 @@
                 position: relative;
                 width: 5vmin; height: 5vmin;
                 display: inline-block;
-                margin-right: 1rem;
-                border: 1px solid $theme-color-white;
+                margin-right: 2vmin;
+                transition: all .3s ease;
+                transform-origin: center;
+
+                &:hover { transform: scale(1.1); }
+
+                i {
+                    position: absolute;
+                    display: block;
+                    width: inherit; height: inherit;
+                    background-size: 5vmin;
+                    background-position: center;
+                    background-repeat: no-repeat;
+                }
+
+                &:nth-child(1) i { background-image: url("../images/github-logo.svg"); }
+                &:nth-child(2) i { background-image: url("../images/weibo-logo.svg"); }
             }
         }
 
         ._contact {
+            display: inline-block;
+
             .footer__line {
                 width: 50%; height: 100%;
                 bottom: 0;

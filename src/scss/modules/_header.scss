@@ -33,7 +33,7 @@
             width: .3rem; height: 3rem;
             right: -.15rem; bottom: -3rem;
             background-color: $theme-color-white;
-            animation: bottom-slide-to-top 3.2s ease .25s infinite;
+            animation: bottom-slide-to-top 3.2s ease .36s infinite;
         }
 
         ._logo {
@@ -49,7 +49,7 @@
                 margin-top: 3vmin;
                 transition: all .3s ease;
                 &:hover, &:active { transform: rotateY(8deg) rotateX(-8deg); }
-                animation: fadein .05s linear alternate 5 forwards;
+                animation: fadein .04s linear alternate 9 forwards;
             }
 
             .header__name {
@@ -65,7 +65,7 @@
                     line-height: $size;
                     letter-spacing: .3rem;
                     opacity: 0;
-                    animation: fadein .8s ease .25s forwards;
+                    animation: fadein .8s ease .36s forwards;
                 }
             }
         }
@@ -100,7 +100,7 @@
                     $animation: fadein .8s ease-in-out alternate infinite;
                     @for $i from 1 through 7 {
                         &:nth-child(#{$i}) {
-                            animation: $animation #{random() + 0.25}s;
+                            animation: $animation #{random() + 0.36}s;
                         }
                     }
                 }

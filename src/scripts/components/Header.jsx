@@ -10,14 +10,14 @@ export default (props) => (
         </div>
         <div className="_binary">
             <div className="header__binary">
-                {/* ASCII('V') => binary */}
-                <span className="one">1</span>
-                <span className="one">1</span>
-                <span className="zero">0</span>
+                {/* ASCII('V') => binary (reversed fot stylesheet) */}
                 <span className="zero">0</span>
                 <span className="one">1</span>
                 <span className="one">1</span>
                 <span className="zero">0</span>
+                <span className="zero">0</span>
+                <span className="one">1</span>
+                <span className="one">1</span>
             </div>
         </div>
     </div>
