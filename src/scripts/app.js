@@ -8,5 +8,6 @@ render (
     document.getElementById('root')
 )
 
-console.log('>  Vidar-Team')
-console.log('>  As we do, as you know.')
+console.log('>  『 Vidar-Team 』 - As we do, as you know.')
+
+console.log('>   Hey, we sell hot dogs on the first teaching building. 🌭')

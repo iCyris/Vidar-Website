@@ -2,10 +2,9 @@ import React from 'react'
 import useTyped from './UseTyped'
 
 const slogans = [
-    "Please scroll to see more.",
-    "Growing up with awe of technology.",
-    "Those who seek truth must not be arrogant.",
     "As we do, as you know.",
+    "Growing up with awe of technology.",
+    "Those who seek truth must not be arrogant."
 ]
 
 export default (props) => {
@@ -14,13 +13,14 @@ export default (props) => {
     useTyped(sloganRef, {
         strings: slogans,
         typeSpeed: 35,
-        backSpeed: 30,
-        startDelay: 0.36,
+        backSpeed: 25,
+        startDelay: 400,
+        backDelay: 800,
         loop: true
     })
 
     return (
-        <div className="_home">
+        <section className="_home">
             <div className="home__subtitle">
                 22594e13276480dd456a8441babc227b / ˈvidɑ:, tim
             </div>
@@ -33,6 +33,6 @@ export default (props) => {
             <div className="home__slogan">
                 <span className="inner" ref={sloganRef} />
             </div>
-        </div>
+        </section>
     )
 }

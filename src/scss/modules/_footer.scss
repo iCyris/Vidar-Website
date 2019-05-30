@@ -16,11 +16,13 @@
         left: 15%; bottom: 10vmin;
 
         ._sns {
+            bottom: 0;
+
             a {
                 position: relative;
                 width: 5vmin; height: 5vmin;
                 display: inline-block;
-                margin-right: 2vmin;
+                margin-right: 3vmin;
                 transition: all .3s ease;
                 transform-origin: center;
 
@@ -41,16 +43,21 @@
         }
 
         ._contact {
-            display: inline-block;
+            height: 5vmin;
+
+            .footer__email, .footer__line {
+                position: relative;
+                display: inline-block;
+                line-height: 5vmin;
+            }
 
             .footer__line {
-                width: 50%; height: 100%;
-                bottom: 0;
+                width: 5rem; height: 1px;
+                margin-right: 5vmin;
             }
 
             .footer__email {
-                width: 100%; height: 100%;
-                bottom: 0;
+                height: 5vmin;
                 font-size: 1rem;
             }
         }
