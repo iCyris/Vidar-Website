@@ -9,5 +9,4 @@ render (
 )
 
 console.log('>  『 Vidar-Team 』 - As we do, as you know.')
-
 console.log('>   Hey, we sell hot dogs on the first teaching building. 🌭')

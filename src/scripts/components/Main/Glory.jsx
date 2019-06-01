@@ -3,7 +3,7 @@ import React from 'react'
 export default (props) => {
 
     return (
-        <section className="_member">
+        <section className="_glory">
 
         </section>
     )

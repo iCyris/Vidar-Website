@@ -29,3 +29,8 @@ a {
     font-family: "RBNo2Light";
     src: url("./fonts/RBNo2Light.otf");
 }
+
+::selection {
+    color: $theme-color-black;
+    background-color: $theme-color-white;
+}
