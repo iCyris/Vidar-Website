@@ -10,8 +10,8 @@ export default () => (
         <Header />
         <Router>
             <Main />
+            <Menu />
         </Router>
-        <Menu />
         <Footer />
     </div>
 )

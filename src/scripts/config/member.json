@@ -1,10 +1,10 @@
 [
     // 12 级
     {
-        "id": "",
-        "intro": "",
-        "avatar": "",
-        "url": ""
+        "id": "lightless",
+        "intro": "Web 安全 / 安全工程师 / 半吊子开发 / 半吊子安全研究",
+        "avatar": "../images/avatar/lightless.jpg",
+        "url": "https://lightless.me/"
     },
     // 13 级
     {

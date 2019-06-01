@@ -1,5 +1,5 @@
 import React from 'react'
-import { Route, Link, withRouter, Switch } from 'react-router-dom'
+import { Route, withRouter, Switch } from 'react-router-dom'
 import Home from './Home'
 import About from './About'
 import Member from './Member'
