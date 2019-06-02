@@ -126,7 +126,7 @@
 @keyframes close-button-inner-in__type1 {
     0% {
         opacity: 0;
-        transform: rotate(45deg) translate(-15%, -15%);
+        transform: rotate(45deg) translate(-16%, -16%);
     }
     100% {
         opacity: 1;
@@ -137,7 +137,7 @@
 @keyframes close-button-inner-in__type2 {
     0% {
         opacity: 0;
-        transform: rotate(-45deg) translate(15%, 15%);
+        transform: rotate(-45deg) translate(16%, 16%);
     }
     100% {
         opacity: 1;
@@ -148,7 +148,7 @@
 @keyframes top-fade-in {
     0% {
         opacity: 0;
-        transform: translateY(-5%);
+        transform: translateY(-6%);
     }
     100% {
         opacity: 1;
