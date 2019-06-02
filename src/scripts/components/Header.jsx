@@ -5,7 +5,7 @@ export default (props) => (
         <div className="_logo">
             <a className="header__logo" href="/" />
             <a className="header__name" href="/">
-                <div>VidarTeam</div>
+                <div>Vidar-Team</div>
             </a>
         </div>
         <div className="_binary">

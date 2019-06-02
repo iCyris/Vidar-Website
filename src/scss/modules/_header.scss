@@ -11,7 +11,8 @@
         }
         .header__name {
             display: block;
-            font-family: Raleway, Serif;
+            font-family: $theme-font-article;
+            white-space: nowrap;
 
             div {
                 position: absolute;

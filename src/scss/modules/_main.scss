@@ -213,6 +213,8 @@
                 overflow: auto;
                 -webkit-overflow-scrolling: touch;
                 width: 100%; height: calc(100% - 4.2rem);
+
+                @include fuck-scrollbar;
             }
 
             .about__article-part1 {
@@ -278,6 +280,8 @@
             box-sizing: border-box;
             padding: 2rem 2rem 1rem 2rem;
 
+            @include fuck-scrollbar;
+
             h2 {
                 font-family: $theme-font-special;
                 letter-spacing: .7rem;
@@ -341,6 +345,8 @@
                     line-height: 3.5rem;
                     white-space: nowrap;
                     overflow-x: scroll;
+
+                    @include fuck-scrollbar;
 
                     &::before {
                         content: ""; position: absolute;

@@ -10,7 +10,12 @@ export default (props) => {
                 <span>{member.id}</span>
             </a>
             <div className="member__intro">
-                <p>{member.intro}</p>
+                <p
+                    dangerouslySetInnerHTML={{
+                        __html:
+                        member.intro
+                    }}
+                />
             </div>
         </div>
     )

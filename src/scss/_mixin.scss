@@ -9,3 +9,12 @@
         @content;
     }
 }
+
+@mixin fuck-scrollbar {
+    // (╯°Д°)╯︵ ┻━┻
+    &::-webkit-scrollbar {
+        display: none;
+    }
+    -ms-overflow-style: none;
+    overflow: -moz-scrollbars-none;
+}

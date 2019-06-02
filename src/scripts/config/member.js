@@ -13,7 +13,7 @@ export default [
     },
     {
         "id": "陈斩仙",
-        "intro": "什么都不会 / 咸鱼研究生 / 安恒、长亭 / SJTU",
+        "intro": "什么都不会 / 咸鱼研究生 / <del>安恒</del>、<del>长亭</del> / SJTU",
         "avatar": require("../../images/avatar/chenzhanxian.jpg"),
         "url": "https://mxgcccc4.github.io/"
     },
