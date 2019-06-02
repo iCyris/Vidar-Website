@@ -155,3 +155,23 @@
         transform: translateY(0);
     }
 }
+
+@keyframes bottom-fade-in {
+    0% {
+        opacity: 0;
+        transform: translateY(20%);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes scaleX0-1 {
+    0% {
+        transform: scaleX(0);
+    }
+    100% {
+        transform: scaleX(1);
+    }
+}

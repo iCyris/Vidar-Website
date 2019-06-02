@@ -38,7 +38,7 @@
                 font-weight: bolder;
                 text-align: center;
                 letter-spacing: 2px;
-                font-family: "RBNo2Light", monospace, serif;
+                font-family: $theme-font-special;
                 transform: translateY(100%);
                 opacity: 0;
                 animation: bottom-slide-in .4s ease forwards, fadein .2s ease .2s forwards;
@@ -129,7 +129,7 @@
             width: 100%; height: 15vmin;
             color: $theme-color-white;
             font-size: 2rem;
-            font-family: "RBNo2Light", Serif;
+            font-family: $theme-font-special;
             font-weight: 400;
             letter-spacing: .4rem;
 
@@ -190,11 +190,11 @@
         .about__article {
             position: relative;
             width: 65%; height: 100%;
-            font-family: Lato, Lucida Family, Helvetica Neue, Microsoft Yahei, Arial, sans-serif;
+            font-family: $theme-font-article;
 
             .about__article-title {
                 width: 100%; height: 4rem;
-                font-family: "RBNo2Light", monospace, Serif;
+                font-family: $theme-font-special;
                 font-size: 4rem;
                 letter-spacing: .7rem;
                 padding: .1rem 0;
@@ -237,6 +237,117 @@
                 li {
                     list-style-position: inside;
                     p {display: inline-block}
+                }
+            }
+        }
+    }
+
+    // member part
+    ._member {
+        position: absolute;
+        width: calc(100% - 20vmin); height: 60vmin;
+        left: 0; top: calc(50% - 30vmin);
+        font-family: $theme-font-article;
+        background-color: transparentize($theme-color-white, .85);
+        background-image: url("../images/cross.svg");
+        background-size: 2rem;
+
+        .member__line-start, .member__line-end {
+            position: absolute;
+            width: 108%; height: 3px;
+            z-index: 100;
+
+            &::after {
+                content: ""; position: absolute;
+                background-color: $theme-color-white;
+                width: 100%; height: 100%;
+                transform-origin: center;
+                transform: scaleX(0);
+                animation: scaleX0-1 .8s ease forwards;
+            }
+        }
+
+        .member__line-start { left: -4%; top: 0; }
+        .member__line-end   { left: -4%; bottom: 0; }
+
+        .member__content {
+            width: 100%; height: 100%;
+            overflow-y: auto;
+            overflow-x: hidden;
+            -webkit-overflow-scrolling: touch;
+            box-sizing: border-box;
+            padding: 2rem 2rem 1rem 2rem;
+
+            h2 {
+                font-family: $theme-font-special;
+                letter-spacing: .7rem;
+                font-size: 2.4rem;
+                margin-bottom: 2rem;
+                opacity: 0;
+                animation: fadein .04s linear alternate 7 forwards;
+            }
+        }
+
+        .profile {
+            position: relative;
+            box-sizing: border-box;
+            width: 100%; height: 5rem;
+            margin-bottom: 1.5rem;
+            display: flex;
+            opacity: 0;
+            animation: bottom-fade-in .6s ease .4s forwards;
+
+            .member__avatar {
+                display: inline-block;
+                width: 4rem;
+                text-align: center;
+
+                img, span {
+                    position: relative;
+                    display: inline-block;
+                }
+
+                img {
+                    width: 3.5rem; height: 3.5rem;
+                    border-radius: 50%;
+                    box-sizing: border-box;
+                    border: 1px solid $theme-color-white;
+                    background-color: #fff;
+                    overflow: hidden;
+                }
+
+                span {
+                    font-size: .8rem;
+                    width: 120%;
+                    transform: translateX(-10%);
+                    word-break: break-all;
+                    margin-top: 5px;
+                }
+            }
+
+            .member__intro {
+                display: flex;
+                width: calc(100% - 5rem);
+                margin-left: 1rem;
+
+                p {
+                    margin: auto;
+                    font-size: .9rem;
+                    font-family: $theme-font-article;
+                    background-color: transparentize($theme-color-white, .9);
+                    width: 100%; height: 3.5rem;
+                    box-sizing: border-box;
+                    padding-left: 1rem;
+                    line-height: 3.5rem;
+                    white-space: nowrap;
+                    overflow-x: scroll;
+
+                    &::before {
+                        content: ""; position: absolute;
+                        background-color: $theme-color-white;
+                        width: calc(100% - 5rem); height: 1px;
+                        transform: translate(-1rem, -.8rem);
+                    }
                 }
             }
         }
