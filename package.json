@@ -4,7 +4,7 @@
   "description": "Vidar-Team official site",
   "main": "src/scripts/app.js",
   "scripts": {
-    "build": "poi --prod",
+    "build": "poi --prod && cp dist/index.html dist/404.html",
     "dev": "poi --serve"
   },
   "repository": {

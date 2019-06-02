@@ -96,6 +96,7 @@
                     transform-origin: center;
                     transform: rotate(-90deg) translateY(.2rem);
                     opacity: 0;
+
                     // animation
                     $animation: fadein .8s ease-in-out alternate infinite;
                     @for $i from 1 through 7 {

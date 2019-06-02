@@ -102,6 +102,15 @@
     }
 }
 
+@keyframes rotate0-90 {
+    0% {
+        transform: rotate(0);
+    }
+    100% {
+        transform: rotate(90deg);
+    }
+}
+
 @keyframes rotate0-90-0{
     0%{
         transform:rotate(0deg);
@@ -133,5 +142,16 @@
     100% {
         opacity: 1;
         transform: rotate(-45deg) translate(0, 0);
+    }
+}
+
+@keyframes top-fade-in {
+    0% {
+        opacity: 0;
+        transform: translateY(-5%);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
     }
 }
