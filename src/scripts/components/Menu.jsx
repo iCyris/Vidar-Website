@@ -18,22 +18,26 @@ export default (props) => {
                 <div className="content__list">
                     <a
                         href="/"
-                        className={location.pathname === "/" ? "current" : ""}>
+                        className={location.pathname === "/" ? "current" : ""}
+                    >
                         HOME
                     </a>
                     <a
                         href="/about"
-                        className={location.pathname === "/about" ? "current" : ""}>
+                        className={location.pathname === "/about" ? "current" : ""}
+                    >
                         ABOUT
                     </a>
                     <a
                         href="/member"
-                        className={location.pathname === "/member" ? "current" : ""}>
+                        className={location.pathname === "/member" ? "current" : ""}
+                    >
                         MEMBER
                     </a>
                     <a
                         href="/glory"
-                        className={location.pathname === "/glory" ? "current" : ""}>
+                        className={location.pathname === "/glory" ? "current" : ""}
+                    >
                         GLORY
                     </a>
                 </div>

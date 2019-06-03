@@ -362,15 +362,17 @@
     // glory part
     ._glory {
         position: absolute;
-        width: calc(100% - 20vmin); height: 60vmin;
-        left: 0; top: calc(50% - 30vmin);
+        width: calc(100% - 10vmin); height: 50vmin;
+        left: 0; top: calc(50% - 25vmin);
         font-family: $theme-font-article;
 
         table {
-            width: 100%;
+            display: block;
+            width: 100%; height: 100%;
             overflow-y: auto;
             overflow-x: hidden;
             -webkit-overflow-scrolling: touch;
+            font-size: .9rem;
 
             @include fuck-scrollbar;
 

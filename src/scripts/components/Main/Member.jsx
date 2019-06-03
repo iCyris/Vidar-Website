@@ -2,7 +2,6 @@ import React from 'react'
 import member_info from '../../config/member.js'
 
 export default (props) => {
-
     const memberProfile = member_info.map( member =>
         <div className="profile" key={member.id}>
             <a className="member__avatar"
