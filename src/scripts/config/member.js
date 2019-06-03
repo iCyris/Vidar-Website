@@ -344,7 +344,7 @@ export default [
     {
         "id": "Seadom",
         "intro": "18 级 / Web / 真·菜到超乎想象 / 拼死学（mo）习（yu）中",
-        "avatar": require("../../images/avatar/Seadom.jpg"),
+        "avatar": require("../../images/avatar/seadom.png"),
         "url": "/#"
     },
     {
