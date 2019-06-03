@@ -359,6 +359,29 @@
         }
     }
 
+    // glory part
+    ._glory {
+        position: absolute;
+        width: calc(100% - 20vmin); height: 60vmin;
+        left: 0; top: calc(50% - 30vmin);
+        font-family: $theme-font-article;
+
+        table {
+            width: 100%;
+            overflow-y: auto;
+            overflow-x: hidden;
+            -webkit-overflow-scrolling: touch;
+
+            @include fuck-scrollbar;
+
+            tbody {
+                td {
+                    text-align: center;
+                }
+            }
+        }
+    }
+
     // link part
     ._links {
         position: absolute;

@@ -27,7 +27,7 @@ export default [
         "id": "Eric",
         "intro": "渗透 / 人工智能 / 北师大博士在读",
         "avatar": require("../../images/avatar/eric.jpg"),
-        "url": "3riccc.github.io"
+        "url": "https://3riccc.github.io"
     },
     {
         "id": "Explorer",
