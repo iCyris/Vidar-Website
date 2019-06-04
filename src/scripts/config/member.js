@@ -115,7 +115,7 @@ export default [
     },
     {
         "id": "Minygd",
-        "intro": "15 级 /  没事儿拍个照 / 企鹅",
+        "intro": "15 级 / 删库跑路熟练工 / 没事儿拍个照 / 企鹅",
         "avatar": require("../../images/avatar/mingy.jpg"),
         "url": "/#"
     },
@@ -151,13 +151,13 @@ export default [
     },
     {
         "id": "fantasyqt",
-        "intro": "16 级 / 摸鱼选手 / 可能会运维",
+        "intro": "16 级 / 可能会运维 / 摸鱼选手",
         "avatar": require("../../images/avatar/fantasyqt.jpg"),
         "url": "http://0x2f.xyz"
     },
     {
         "id": "vvv_347",
-        "intro": "16 级 / Freelancer",
+        "intro": "16 级 / Rev / Windows / Freelancer",
         "avatar": require("../../images/avatar/vvv_347.png"),
         "url": "https://vvv-347.space"
     },
@@ -199,7 +199,7 @@ export default [
     },
     {
         "id": "ngc7293",
-        "intro": "16 级 / 摸鱼选手 / 找不到工作，被迫考研",
+        "intro": "16 级 / 蟒蛇饲养员 / 高数小王子",
         "avatar": require("../../images/avatar/ngc7293.jpg"),
         "url": "https://ngc7292.github.io/"
     },
@@ -259,7 +259,7 @@ export default [
     },
     {
         "id": "MiGo",
-        "intro": "17 级 / 摸鱼怪 / meaqua 箱推人 / 有人带我打游戏吗",
+        "intro": "17 级 / 炼丹中 / meaqua 箱推人 / 有人带我打游戏吗",
         "avatar": require("../../images/avatar/MiGo.jpg"),
         "url": "https://migoooo.github.io/"
     },
@@ -277,7 +277,7 @@ export default [
     },
     {
         "id": "oyiadin",
-        "intro": "17 级 / 摸鱼选手 / 专业打杂 / 啥都不会 / 啥都不懂",
+        "intro": "17 级 / 深度智障 / 机器瞎子 / 精通 CNN、RNN、LSTM 的拼写 / 精通摸鱼",
         "avatar": require("../../images/avatar/oyy.jpg"),
         "url": "https://blog.b1n.top/"
     },
