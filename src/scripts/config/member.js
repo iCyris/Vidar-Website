@@ -7,7 +7,7 @@ export default [
     },
     {
         "id": "Edward_L",
-        "intro": "13 级 HDUISA 会长 / Web 安全 / 华为安全部门",
+        "intro": "13 级 HDUISA 会长 / Web 安全 / 华为安全部门 / 二进制安全，fuzz，符号执行方向研究",
         "avatar": require("../../images/avatar/edward_L.jpg"),
         "url": "/#"
     },
@@ -75,12 +75,6 @@ export default [
         "id": "Undefinedv",
         "intro": "15 级网安协会会长 / Web 安全",
         "avatar": require("../../images/avatar/undefinedv.jpg"),
-        "url": "/#"
-    },
-    {
-        "id": "Dkkaccler",
-        "intro": "Dkkaccler",
-        "avatar": require("../../images/avatar/dkkaccler.jpg"),
         "url": "/#"
     },
     {
@@ -187,7 +181,7 @@ export default [
     },
     {
         "id": "Acaleph",
-        "intro": "16 级 / 水母一小只 / 程序员鼓励师 / Cy 来组饥荒！",
+        "intro": "16 级 / Web 前端 / 水母一小只 / 程序员鼓励师 / Cy 来组饥荒！",
         "avatar": require("../../images/avatar/Acaleph.jpg"),
         "url": "/#"
     },
@@ -235,7 +229,7 @@ export default [
     },
     {
         "id": "Ch1p",
-        "intro": "17 级 / 自称bin手实际啥都不会 / 二次元安全",
+        "intro": "17 级 / 自称 Bin 手实际啥都不会 / 二次元安全",
         "avatar": require("../../images/avatar/Chip.jpg"),
         "url": "http://ch1p.top"
     },
