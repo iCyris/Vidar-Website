@@ -29,10 +29,7 @@ export default (props) => {
                             <strong>简介</strong>
                         </h4>
                         <p className="intro">
-                            <strong>Vidar-Team：</strong> {about_info.intro}
-                        </p>
-                        <p className="story">
-                            <strong>Vidar：</strong> {about_info.story}
+                            {about_info.intro}
                         </p>
                     </div>
 

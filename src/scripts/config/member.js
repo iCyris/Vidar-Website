@@ -12,16 +12,16 @@ export default [
         "url": "/#"
     },
     {
+        "id": "逆风",
+        "intro": "13 级菜鸡 / 大数据打杂",
+        "avatar": require("../../images/avatar/deadwind4.jpeg"),
+        "url": "https://github.com/deadwind4"
+    },
+    {
         "id": "陈斩仙",
         "intro": "什么都不会 / 咸鱼研究生 / <del>安恒</del>、<del>长亭</del> / SJTU",
         "avatar": require("../../images/avatar/chenzhanxian.jpg"),
         "url": "https://mxgcccc4.github.io/"
-    },
-    {
-        "id": "猫流",
-        "intro": "游戏设计",
-        "avatar": require("../../images/avatar/maoliu.jpg"),
-        "url": "/#"
     },
     {
         "id": "Eric",
@@ -49,7 +49,7 @@ export default [
     },
     {
         "id": "Hcamael",
-        "intro": "Web 安全 / 知道创宇 404 安全实验室 / IOT、Web、二进制漏洞全能研究",
+        "intro": "13级 / 知道创宇 404 安全研究员 / 现在 Nu1L 划划水 / IoT、Web、二进制漏洞，密码学，区块链都看得懂一点，但啥也不会",
         "avatar": require("../../images/avatar/hcamael.jpg"),
         "url": "/#"
     },
@@ -94,12 +94,6 @@ export default [
         "intro": "协会的小宝贝，神圣不可侵犯",
         "avatar": require("../../images/avatar/tata.jpg"),
         "url": "/#"
-    },
-    {
-        "id": "逆风",
-        "intro": "13 级菜鸡 / 大数据打杂",
-        "avatar": require("../../images/avatar/deadwind4.jpeg"),
-        "url": "https://github.com/deadwind4"
     },
     {
         "id": "Airbasic",
@@ -232,6 +226,18 @@ export default [
         "intro": "Web 安全爱好者 / 半个程序员 / 没有女朋友",
         "avatar": require("../../images/avatar/li4no.jpg"),
         "url": "https://blog.0e1.top"
+    },
+    {
+        "id": "Mki603",
+        "intro": "17 级 / Web / 沙雕开发 / 列表最穷",
+        "avatar": require("../../images/avatar/mki603.jpg"),
+        "url": "http://mki.design"
+    },
+    {
+        "id": "Ch1p",
+        "intro": "17 级 / 自称bin手实际啥都不会 / 二次元安全",
+        "avatar": require("../../images/avatar/Chip.jpg"),
+        "url": "http://ch1p.top"
     },
     {
         "id": "f1rry",
