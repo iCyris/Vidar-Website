@@ -49,7 +49,7 @@ export default [
     },
     {
         "id": "Hcamael",
-        "intro": "13级 / 知道创宇 404 安全研究员 / 现在 Nu1L 划划水 / IoT、Web、二进制漏洞，密码学，区块链都看得懂一点，但啥也不会",
+        "intro": "13 级 / 知道创宇 404 安全研究员 / 现在 Nu1L 划划水 / IoT、Web、二进制漏洞，密码学，区块链都看得懂一点，但啥也不会",
         "avatar": require("../../images/avatar/hcamael.jpg"),
         "url": "/#"
     },
@@ -133,7 +133,7 @@ export default [
     },
     {
         "id": "Junier",
-        "intro": "16 级 / 打杂 / 摸鱼 / 立志学术的研狗 / 经济之光 / R 语言忠实粉丝",
+        "intro": "16 级 / 打杂 / 摸鱼 / 立志学术的研狗 / 经济之光 / R 语言忠实粉丝 / 为楼上的脱单事业做出了贡献",
         "avatar": require("../../images/avatar/Junier.jpg"),
         "url": "/#"
     },
@@ -187,7 +187,7 @@ export default [
     },
     {
         "id": "Acaleph",
-        "intro": "16 级 / 水母一小只 / 程序员鼓励师 / Cy 来组饥荒惹！",
+        "intro": "16 级 / 水母一小只 / 程序员鼓励师 / Cy 来组饥荒！",
         "avatar": require("../../images/avatar/Acaleph.jpg"),
         "url": "/#"
     },
@@ -370,5 +370,11 @@ export default [
         "intro": "18 级 / 开发菜鸡 / Web 摸鱼选手",
         "avatar": require("../../images/avatar/E99p1ant.jpg"),
         "url": "https://github.red"
+    },
+    {
+        "id": "Michael",
+        "intro": "18 级 / Java / 会除我佬",
+        "avatar": require("../../images/avatar/Michael.jpg"),
+        "url": "http://michaelsblog.top/"
     }
 ]
