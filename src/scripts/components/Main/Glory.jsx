@@ -3,7 +3,7 @@ import glory_info from '../../config/glory'
 
 export default (props) => {
 
-    glory_info.reverse()
+    if (glory_info[0].id === "1") { glory_info.reverse() }
 
     const tBody = glory_info.map( item =>
         <tr key={item.id}>
@@ -16,7 +16,11 @@ export default (props) => {
 
     return (
         <section className="_glory">
-            <table className="table">
+            <div className="glory__open">
+                <div className="text">Glory</div>
+                <div className="coverage" />
+            </div>
+            <table className="glory__table">
                 <thead>
                     <tr>
                         <th>编号</th>

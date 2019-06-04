@@ -362,23 +362,88 @@
     // glory part
     ._glory {
         position: absolute;
-        width: calc(100% - 10vmin); height: 50vmin;
+        width: calc(100% - 18vmin); height: 50vmin;
         left: 0; top: calc(50% - 25vmin);
         font-family: $theme-font-article;
+
+        .glory__open {
+            position: absolute;
+            width: 26vmin; height: 26vmin;
+            left: calc(50% - 13vmin); top: calc(50% - 13vmin);
+            display: flex;
+            animation: fadeout 1s ease 1.2s forwards;
+
+            .text {
+                position: relative;
+                margin: auto;
+                opacity: 0;
+                font-family: $theme-font-special;
+                font-size: 3.6rem;
+                letter-spacing: .6rem;
+                animation: text-slide-top .5s cubic-bezier(0.68, 0.04, 0.25, 1) .7s forwards;
+            }
+
+            .coverage {
+                position: absolute;
+                width: 100%; height: 100%;
+                left: 0; top: 0;
+                opacity: 0;
+                animation: fall-bound .7s cubic-bezier(0.94, 0.01, 1, 1) forwards;
+
+                &::before, &::after {
+                    content: ""; position: absolute;
+                    width: 50%; height: 100%;
+                    background-image: url("../images/logo-blue.svg");
+                    background-size: 200%;
+                    background-repeat: no-repeat;
+                    transform-origin: bottom center;
+                }
+
+                &::before {
+                    left: 0; top: 0;
+                    background-position: left center;
+                    animation: paka .6s cubic-bezier(0.94, 0.01, 1, 1) .7s forwards;
+                }
+
+                &::after {
+                    right: 0; top: 0;
+                    background-position: right center;
+                    animation: paka- .6s cubic-bezier(0.94, 0.01, 1, 1) .7s forwards;
+                }
+
+            }
+        }
 
         table {
             display: block;
             width: 100%; height: 100%;
+            border-collapse: collapse;
             overflow-y: auto;
             overflow-x: hidden;
             -webkit-overflow-scrolling: touch;
             font-size: .9rem;
+            border-radius: 5px;
+            opacity: 0;
+            animation: fadein 1s ease 1.2s forwards;
 
             @include fuck-scrollbar;
+
+            th, td {
+                padding: .9rem;
+            }
+
+            thead {
+                background-color: $theme-color-blue;
+            }
 
             tbody {
                 td {
                     text-align: center;
+                }
+
+                tr {
+                    &:nth-child(odd) {background-color: transparentize($theme-color-blue, .6); }
+                    &:nth-child(even) {background-color: transparentize($theme-color-blue, .3); }
                 }
             }
         }
