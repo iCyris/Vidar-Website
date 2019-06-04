@@ -120,6 +120,12 @@ export default [
         "url": "/#"
     },
     {
+        "id": "Yotubird",
+        "intro": "15 级 / 已入 Python 神教",
+        "avatar": require("../../images/avatar/Yotubird.png"),
+        "url": "/#"
+    },
+    {
         "id": "c014",
         "intro": "15 级 / Web 🐶 / 汪汪汪",
         "avatar": require("../../images/avatar/c014.png"),
@@ -127,7 +133,7 @@ export default [
     },
     {
         "id": "Junier",
-        "intro": "16 级 / 打杂 / 摸鱼 / 立志学术的研狗 / 经济之光 / R 语言忠实粉丝 / 为楼上的脱单事业做出了贡献",
+        "intro": "16级 / 立志学术的统计er / R / 为楼上的脱单事业做出了贡献",
         "avatar": require("../../images/avatar/Junier.jpg"),
         "url": "/#"
     },
