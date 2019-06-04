@@ -223,7 +223,7 @@ export default [
     },
     {
         "id": "Li4n0",
-        "intro": "Web 安全爱好者 / 半个程序员 / 没有女朋友",
+        "intro": "17 级 / Web 安全爱好者 / 半个程序员 / 没有女朋友",
         "avatar": require("../../images/avatar/li4no.jpg"),
         "url": "https://blog.0e1.top"
     },
@@ -301,7 +301,7 @@ export default [
     },
     {
         "id": "Y",
-        "intro": "18 级 / Bin / CSGO 白给选手",
+        "intro": "18 级 / Bin / Win / 电竞缺乏视力 / 开发太菜 / 只会 C / CSGO 白给选手",
         "avatar": require("../../images/avatar/Y.jpg"),
         "url": "https://blog.xyzz.ml:444/"
     },
@@ -313,7 +313,7 @@ export default [
     },
     {
         "id": "logong",
-        "intro": "18 级 / 盲人 / 真· Web 底层",
+        "intro": "18 级 / Web 底层 / 盲人电竞选手 / 想走运维",
         "avatar": require("../../images/avatar/logong.jpg"),
         "url": "http://logong.vip"
     },
@@ -331,7 +331,7 @@ export default [
     },
     {
         "id": "幼稚园",
-        "intro": "18 级 / Re / CS 只会干拉",
+        "intro": "18 级 / Re / Linux / CS 只会干拉",
         "avatar": require("../../images/avatar/youzhiyuan.jpg"),
         "url": "https://www.danisjiang.xyz/"
     },
@@ -355,7 +355,7 @@ export default [
     },
     {
         "id": "ObjectNotFound",
-        "intro": "18 级 / Web 真·菜鸡，别人的菜都是假的 / 这个人懒到不写简介",
+        "intro": "18 级 / Web 真·菜鸡 / Linux 真好玩 / 杂学者 / 划水",
         "avatar": require("../../images/avatar/ObjectNotFound.jpg"),
         "url": "https://www.zhouweitong.site/"
     },
@@ -376,5 +376,11 @@ export default [
         "intro": "18 级 / Java / 会除我佬",
         "avatar": require("../../images/avatar/Michael.jpg"),
         "url": "http://michaelsblog.top/"
+    },
+    {
+        "id": "MATRIX",
+        "intro": "18 级 / 不会 Pwn 的 Bin 选手 / 主机游戏爱好者",
+        "avatar": require("../../images/avatar/MATRIX.jpg"),
+        "url": "/#"
     }
 ]
