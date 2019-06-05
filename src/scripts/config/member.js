@@ -85,7 +85,7 @@ export default [
     },
     {
         "id": "Tata",
-        "intro": "协会的小宝贝，神圣不可侵犯",
+        "intro": "二进制 CGC 入门水准 / 半吊子爬虫与反爬虫",
         "avatar": require("../../images/avatar/tata.jpg"),
         "url": "/#"
     },
