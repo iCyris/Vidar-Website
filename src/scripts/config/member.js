@@ -133,8 +133,14 @@ export default [
     },
     {
         "id": "Junier",
-        "intro": "16级 / 立志学术的统计er / R / 为楼上的脱单事业做出了贡献",
+        "intro": "16 级 / 立志学术的统计er / R / 为楼上的脱单事业做出了贡献",
         "avatar": require("../../images/avatar/Junier.jpg"),
+        "url": "/#"
+    },
+    {
+        "id": "bigmud",
+        "intro": "16 级会长 / Web 后端 / 会一点点 Web 安全 / 会一丢丢二进制",
+        "avatar": require("../../images/avatar/bigmud.jpg"),
         "url": "/#"
     },
     {
