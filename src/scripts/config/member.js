@@ -187,7 +187,7 @@ export default [
     },
     {
         "id": "Cyris",
-        "intro": "16 级 / Web 前端 / 不会设计 / WebGL & 数据可视化",
+        "intro": "16 级 / Web 前端 / 不会设计 / WebGL",
         "avatar": require("../../images/avatar/Cyris.jpg"),
         "url": "https://cyris.moe/"
     },
@@ -345,7 +345,7 @@ export default [
         "id": "幼稚园",
         "intro": "18 级 / Re / Linux / CS 只会干拉",
         "avatar": require("../../images/avatar/youzhiyuan.jpg"),
-        "url": "https://www.danisjiang.xyz/"
+        "url": "https://www.danisjiang.com/"
     },
     {
         "id": "rosetta",
