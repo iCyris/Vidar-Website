@@ -187,7 +187,7 @@ export default [
     },
     {
         "id": "Cyris",
-        "intro": "16 级 / Web 前端 / 不会设计 / WebGL",
+        "intro": "16 级 / Web 前端 / 不会画画的美工 / Data Visualization && Animation",
         "avatar": require("../../images/avatar/Cyris.jpg"),
         "url": "https://cyris.moe/"
     },
