@@ -103,7 +103,7 @@ export default [
     },
     {
         "id": "Processor",
-        "intro": "15 级 Vidar 会长 / 送分型逆向选手 / 半年更博客博主 / 13 段剑纯",
+        "intro": "15 级 Vidar 会长 / 送分型逆向选手 / 13 段剑纯 / 差点没毕业 / 阿斯巴甜有点甜",
         "avatar": require("../../images/avatar/Processor.jpeg"),
         "url": "https://processor.pub/"
     },
@@ -187,7 +187,7 @@ export default [
     },
     {
         "id": "Cyris",
-        "intro": "16 级 / Web 前端 / 不会画画的美工 / Data Visualization && Animation",
+        "intro": "16 级 / Web 前端 / 不会画画的美工 / Alibaba TXD",
         "avatar": require("../../images/avatar/Cyris.jpg"),
         "url": "https://cyris.moe/"
     },
