@@ -326,47 +326,35 @@
     {
         "id": "55",
         "time": "2019",
-        "name": "*CTF 2019",
-        "result": "第三十五名"
-    },
-    {
-        "id": "56",
-        "time": "2019",
         "name": "RCTF 2019 国际赛",
         "result": "第十七名"
     },
     {
-        "id": "57",
+        "id": "56",
         "time": "2019",
         "name": "De1CTF 2019",
         "result": "第九名"
     },
     {
-        "id": "58",
+        "id": "57",
         "time": "2019",
         "name": "SUCTF 2019",
         "result": "第十二名"
     },
     {
-        "id": "59",
+        "id": "58",
         "time": "2019",
         "name": "X-NUCA' 2019",
         "result": "第六名"
     },
     {
-        "id": "60",
-        "time": "2019",
-        "name": "OGeek 挑战赛",
-        "result": "第三十八名"
-    },
-    {
-        "id": "61",
+        "id": "59",
         "time": "2019",
         "name": "WCTF 2019 线下赛",
         "result": "第九名"
     },
     {
-        "id": "62",
+        "id": "60",
         "time": "2019",
         "name": "RSCTF / TCTF 2019",
         "result": "第六名"
