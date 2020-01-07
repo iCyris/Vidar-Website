@@ -27,6 +27,9 @@ export default (props) => (
             <div className="footer__email">
                 <a href="mailto: public@vidar.club">public@vidar.club</a>
             </div>
+            <div className="footer__beian">
+                <a href="http://www.beian.miit.gov.cn">皖ICP备16006627号</a>
+            </div>
         </div>
     </div>
 )

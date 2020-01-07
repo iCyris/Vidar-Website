@@ -45,7 +45,7 @@
         ._contact {
             height: 5vmin;
 
-            .footer__email, .footer__line {
+            .footer__email, .footer__line, .footer__beian {
                 position: relative;
                 display: inline-block;
                 line-height: 5vmin;
@@ -53,12 +53,19 @@
 
             .footer__line {
                 width: 5rem; height: 1px;
-                margin-right: 5vmin;
+                margin-right: 3vmin;
             }
 
             .footer__email {
                 height: 5vmin;
                 font-size: 1rem;
+                margin-right: 3vmin;
+            }
+
+            .footer__beian {
+                font-size: 1rem;
+                height: 5vmin;
+                font-family: $theme-font-article;
             }
         }
     }
