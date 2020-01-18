@@ -294,12 +294,6 @@ export default [
         "url": "https://blog.lou00.top"
     },
     {
-        "id": "INVIN",
-        "intro": "17 级 / 沉迷游戏 / 擅长 Web、Misc、Crypto 签到 / 宅",
-        "avatar": require("../../images/avatar/INVIN.png"),
-        "url": "/#"
-    },
-    {
         "id": "wenzhuan",
         "intro": "18 级 / 完全不会安全 / 一个做设计的鸽子美工 / 天天画表情包",
         "avatar": require("../../images/avatar/wenzhuan.jpg"),
