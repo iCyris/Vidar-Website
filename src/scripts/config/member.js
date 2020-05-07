@@ -324,10 +324,10 @@ export default [
         "url": "http://logong.vip"
     },
     {
-        "id": "Kev1n",
-        "intro": "18 级 / Web 菜鸡 / 只想知道赛博朋克 2077 什么时候发布",
+        "id": "Kevin",
+        "intro": "18 级 / Web 菜鸡 / CDPR粉",
         "avatar": require("../../images/avatar/Kev1n.jpg"),
-        "url": "https://blog.kev1n.top"
+        "url": "https://harmless.blue/"
     },
     {
         "id": "LurkNoi",
