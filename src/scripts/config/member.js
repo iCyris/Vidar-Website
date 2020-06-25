@@ -1,5 +1,4 @@
-export default [
-    {
+export default [{
         "id": "lightless",
         "intro": "Web 安全 / 安全工程师 / 半吊子开发 / 半吊子安全研究",
         "avatar": require("../../images/avatar/lightless.jpg"),
@@ -9,7 +8,7 @@ export default [
         "id": "Edward_L",
         "intro": "13 级 HDUISA 会长 / Web 安全 / 华为安全部门 / 二进制安全，fuzz，符号执行方向研究",
         "avatar": require("../../images/avatar/edward_L.jpg"),
-        "url": "/#"
+        "url": "#"
     },
     {
         "id": "逆风",
@@ -33,25 +32,25 @@ export default [
         "id": "Explorer",
         "intro": "14 级 HDUISA 会长 / 二进制安全 / 曾被 NULL、TD、蓝莲花等拉去凑人数 / 差点没毕业 / 长亭安研",
         "avatar": require("../../images/avatar/Explorer.jpg"),
-        "url": "/#"
+        "url": "#"
     },
     {
         "id": "Aklis",
         "intro": "14 级 HDUISA 副会长 / 二次元 / 拼多多安全工程师",
         "avatar": require("../../images/avatar/aklis.jpg"),
-        "url": "/#"
+        "url": "#"
     },
     {
         "id": "Sysorem",
         "intro": "14 级网安协会会长 / HDUISA 成员 / Web 安全 / Freebuf 安全社区特约作者 / FSI2015Freebuf 特邀嘉宾",
         "avatar": require("../../images/avatar/sysorem.jpg"),
-        "url": "/#"
+        "url": "#"
     },
     {
         "id": "Hcamael",
         "intro": "13 级 / 知道创宇 404 安全研究员 / 现在 Nu1L 划划水 / IoT、Web、二进制漏洞，密码学，区块链都看得懂一点，但啥也不会",
         "avatar": require("../../images/avatar/hcamael.jpg"),
-        "url": "/#"
+        "url": "#"
     },
     {
         "id": "LoRexxar",
@@ -63,43 +62,43 @@ export default [
         "id": "A1ex",
         "intro": "14 级网安协会副会长 / Web 安全",
         "avatar": require("../../images/avatar/alex.jpg"),
-        "url": "/#"
+        "url": "#"
     },
     {
         "id": "Ahlaman",
         "intro": "14 级网安协会副会长 / 无线安全",
         "avatar": require("../../images/avatar/ahlaman.jpg"),
-        "url": "/#"
+        "url": "#"
     },
     {
         "id": "Undefinedv",
         "intro": "15 级网安协会会长 / Web 安全",
         "avatar": require("../../images/avatar/undefinedv.jpg"),
-        "url": "/#"
+        "url": "#"
     },
     {
         "id": "Spine",
         "intro": "逆向 / 二进制安全",
         "avatar": require("../../images/avatar/spine.jpg"),
-        "url": "/#"
+        "url": "#"
     },
     {
         "id": "Tata",
         "intro": "二进制 CGC 入门水准 / 半吊子爬虫与反爬虫",
         "avatar": require("../../images/avatar/tata.jpg"),
-        "url": "/#"
+        "url": "#"
     },
     {
         "id": "Airbasic",
         "intro": "Web 安全 / 长亭科技安服部门 / TSRC 2015 年年度英雄榜第八、2016 年年度英雄榜第十三",
         "avatar": require("../../images/avatar/airbasic.jpg"),
-        "url": "/#"
+        "url": "#"
     },
     {
         "id": "jibo",
         "intro": "15 级 / 什么都不会的开发 / 打什么都菜",
         "avatar": require("../../images/avatar/jibo.jpg"),
-        "url": "/#"
+        "url": "#"
     },
     {
         "id": "Processor",
@@ -117,37 +116,37 @@ export default [
         "id": "Minygd",
         "intro": "15 级 / 删库跑路熟练工 / 没事儿拍个照 / 企鹅",
         "avatar": require("../../images/avatar/mingy.jpg"),
-        "url": "/#"
+        "url": "#"
     },
     {
         "id": "Yotubird",
         "intro": "15 级 / 已入 Python 神教",
         "avatar": require("../../images/avatar/Yotubird.png"),
-        "url": "/#"
+        "url": "#"
     },
     {
         "id": "c014",
         "intro": "15 级 / Web 🐶 / 汪汪汪",
         "avatar": require("../../images/avatar/c014.png"),
-        "url": "/#"
+        "url": "#"
     },
     {
         "id": "Junier",
         "intro": "16 级 / 立志学术的统计er / R / 为楼上的脱单事业做出了贡献",
         "avatar": require("../../images/avatar/Junier.jpg"),
-        "url": "/#"
+        "url": "#"
     },
     {
         "id": "bigmud",
         "intro": "16 级会长 / Web 后端 / 会一点点 Web 安全 / 会一丢丢二进制",
         "avatar": require("../../images/avatar/bigmud.jpg"),
-        "url": "/#"
+        "url": "#"
     },
     {
         "id": "NeverMoes",
         "intro": "16 级 / Java 福娃 / 上班 996 / 下班 669",
         "avatar": require("../../images/avatar/nervermoes.jpg"),
-        "url": "/#"
+        "url": "#"
     },
     {
         "id": "Sora",
@@ -183,7 +182,7 @@ export default [
         "id": "Ash",
         "intro": "16 级 / Java 开发攻城狮 / 996 选手 / 濒临猝死",
         "avatar": require("../../images/avatar/ash.jpg"),
-        "url": "/#"
+        "url": "#"
     },
     {
         "id": "Cyris",
@@ -195,7 +194,7 @@ export default [
         "id": "Acaleph",
         "intro": "16 级 / Web 前端 / 水母一小只 / 程序员鼓励师 / Cy 来组饥荒！",
         "avatar": require("../../images/avatar/Acaleph.jpg"),
-        "url": "/#"
+        "url": "#"
     },
     {
         "id": "b0lv42",
@@ -219,13 +218,13 @@ export default [
         "id": "cru5h",
         "intro": "16 级 / Web",
         "avatar": require("../../images/avatar/cru5h.jpg"),
-        "url": "/#"
+        "url": "#"
     },
     {
         "id": "xiaoyao52110",
         "intro": "16 级 / Bin 打杂 / 他们说菜都是假的，我是真的",
         "avatar": require("../../images/avatar/xiaoyao52110.jpg"),
-        "url": "/#"
+        "url": "#"
     },
     {
         "id": "Li4n0",
@@ -249,7 +248,7 @@ export default [
         "id": "f1rry",
         "intro": "17 级 / Web",
         "avatar": require("../../images/avatar/f1rry.png"),
-        "url": "/#"
+        "url": "#"
     },
     {
         "id": "mian",
@@ -315,25 +314,25 @@ export default [
         "id": "Annevi",
         "intro": "18 级 / Web 底层",
         "avatar": require("../../images/avatar/Annevi.jpg"),
-        "url": "https://lwh.red"
+        "url": "https://annevi.cn"
     },
     {
         "id": "logong",
-        "intro": "18 级 / Web 底层 / 盲人电竞选手 / 想走运维",
+        "intro": "18 级 / 求大佬带我IoT入门 / web太难了只能做做misc维持生计 / 摸🐟",
         "avatar": require("../../images/avatar/logong.jpg"),
         "url": "http://logong.vip"
     },
     {
         "id": "Kevin",
         "intro": "18 级 / Web 菜鸡 / CDPR粉",
-        "avatar": require("../../images/avatar/Kev1n.jpg"),
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=jaXAqywDMbia39e4OfGXicPQ&s=640",
         "url": "https://harmless.blue/"
     },
     {
         "id": "LurkNoi",
         "intro": "18 级 / 不是学姐 / 不务正业 / MC 打杂",
         "avatar": require("../../images/avatar/LurkNoi.jpg"),
-        "url": "/#"
+        "url": "#"
     },
     {
         "id": "幼稚园",
@@ -343,7 +342,7 @@ export default [
     },
     {
         "id": "rosetta",
-        "intro": "18 级 / Java / 这个人太菜了不配拥有简介",
+        "intro": "18 级 / Java / whatever / 考研懒狗",
         "avatar": require("../../images/avatar/rosetta.jpg"),
         "url": "http://47.107.239.93/"
     },
@@ -357,7 +356,7 @@ export default [
         "id": "Seadom",
         "intro": "18 级 / Web / 真·菜到超乎想象 / 拼死学（mo）习（yu）中",
         "avatar": require("../../images/avatar/seadom.png"),
-        "url": "/#"
+        "url": "#"
     },
     {
         "id": "ObjectNotFound",
@@ -387,6 +386,77 @@ export default [
         "id": "MATRIX",
         "intro": "18 级 / 不会 Pwn 的 Bin 选手 / 主机游戏爱好者",
         "avatar": require("../../images/avatar/MATRIX.jpg"),
-        "url": "/#"
+        "url": "#"
+    },
+    {
+        "id": "Akira",
+        "intro": "19级 / 硬件专业的web底层 / 拉邦结π / 想学运维 / 带带弟弟",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=ku1vqyI1hLJr61PGIlic7Ow&s=640",
+        "url": "https://4k1ra.tech/"
+    }, {
+        "id": "fl0a1e",
+        "intro": "19级 / 日常摸🐟 / 上面下面的大佬们带带弟弟 / 肝图 / 真·安全菜鸡",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=q5qVDcvyzxee4qiays52mibA&s=640",
+        "url": "https://fl0.top/"
+    }, {
+        "id": "sw1tch",
+        "intro": "19级 / 歪脖手，喜欢把东西注进去，不是胖手，不会病",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=E3j3BJrsAfyl1arfnFKufQ&s=640",
+        "url": "http://www.chriswitch.tk"
+    }, {
+        "id": "0x4qE",
+        "intro": "19级 / &lt;/p&gt;&lt;p&gt;Web",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=K7icYial1VVzlNl7hrD9MlNw&s=640",
+        "url": "https://github.com/0x4qE"
+    }, {
+        "id": "xi4oyu",
+        "intro": "19级 / 骨瘦如柴的胖手",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=JfeMY6Lz5ZU4GmtTV85otQ&s=640",
+        "url": "https://www.xi4oyu.top"
+    }, {
+        "id": "R3n0",
+        "intro": "19级 / bin底层选手",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=icY08gnMlXtoYIJ9ib3eJQ2g&s=640",
+        "url": "https://r3n0.top"
+    }, {
+        "id": "m140",
+        "intro": "19级 / 不会Re / 什么时候我会胖呀 / 摸🐟",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=zt0iccbnGuV8dOpXIYrJgvg&s=640",
+        "url": "#"
+    }, {
+        "id": "r4u",
+        "intro": "19级 / 不可以摸🐠哦",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=rJCqQv1EzicpDW77nMa5bYw&s=640",
+        "url": "http://47.97.211.205"
+    }, {
+        "id": "Mezone",
+        "intro": "19级 / 普通的binary爱好者。",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=rDD29iahzzg8AvQX7fdbFPg&s=640",
+        "url": "#"
+    }, {
+        "id": "d1gg12",
+        "intro": "19级 / 摸🐟人 / pwn / 杂学",
+        "avatar": require("../../images/avatar/d1gg12.jpg"),
+        "url": "https://www.thesoldierjack.cn/"
+    }, {
+        "id": "Trotsky",
+        "intro": "19级 / Web划水 / 安卓摸🐟 / P社玩家 / 永远的果黑",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=LiasEshjTXTrNzJjPHVY3Vw&s=640",
+        "url": "https://altonhe.github.io/"
+    }, {
+        "id": "357",
+        "intro": "19级 / 并不会web / 端茶送水选手",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=POaV9Y85NiaUcibaETEKTpfw&s=640",
+        "url": "#"
+    }, {
+        "id": "Gamison",
+        "intro": "19级 / 挖坑不填的web选手",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=0VaAu2go9mvrMXu1ibmKy1g&s=640",
+        "url": "http://aw.gamison.top"
+    }, {
+        "id": "Tinmix",
+        "intro": "19级 / Web划水 / 深度学习爱好者 / VCB-Studio常客",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=L2EclrAltb7lk3LBPY6oWA&s=640",
+        "url": "http://poi.ac"
     }
 ]
