@@ -387,8 +387,17 @@ export default [{
         "intro": "18 级 / 不会 Pwn 的 Bin 选手 / 主机游戏爱好者",
         "avatar": require("../../images/avatar/MATRIX.jpg"),
         "url": "#"
-    },
-    {
+    }, {
+        "id": "r4u",
+        "intro": "18级 / 不可以摸🐠哦",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=rJCqQv1EzicpDW77nMa5bYw&s=640",
+        "url": "http://47.97.211.205"
+    }, {
+        "id": "357",
+        "intro": "18级 / 并不会web / 端茶送水选手",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=POaV9Y85NiaUcibaETEKTpfw&s=640",
+        "url": "#"
+    }, {
         "id": "Akira",
         "intro": "19级 / 硬件专业的web底层 / 拉邦结π / 想学运维 / 带带弟弟",
         "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=ku1vqyI1hLJr61PGIlic7Ow&s=640",
@@ -424,11 +433,6 @@ export default [{
         "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=zt0iccbnGuV8dOpXIYrJgvg&s=640",
         "url": "#"
     }, {
-        "id": "r4u",
-        "intro": "19级 / 不可以摸🐠哦",
-        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=rJCqQv1EzicpDW77nMa5bYw&s=640",
-        "url": "http://47.97.211.205"
-    }, {
         "id": "Mezone",
         "intro": "19级 / 普通的binary爱好者。",
         "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=rDD29iahzzg8AvQX7fdbFPg&s=640",
@@ -443,11 +447,6 @@ export default [{
         "intro": "19级 / Web划水 / 安卓摸🐟 / P社玩家 / 永远的果黑",
         "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=LiasEshjTXTrNzJjPHVY3Vw&s=640",
         "url": "https://altonhe.github.io/"
-    }, {
-        "id": "357",
-        "intro": "19级 / 并不会web / 端茶送水选手",
-        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=POaV9Y85NiaUcibaETEKTpfw&s=640",
-        "url": "#"
     }, {
         "id": "Gamison",
         "intro": "19级 / 挖坑不填的web选手",
