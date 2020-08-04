@@ -391,7 +391,7 @@ export default [{
         "id": "r4u",
         "intro": "18级 / 不可以摸🐠哦",
         "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=rJCqQv1EzicpDW77nMa5bYw&s=640",
-        "url": "http://47.97.211.205"
+        "url": "http://r4u.top/"
     }, {
         "id": "357",
         "intro": "18级 / 并不会web / 端茶送水选手",
