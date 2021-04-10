@@ -186,7 +186,7 @@ export default [{
     },
     {
         "id": "Cyris",
-        "intro": "16 级 / Web 前端 / 不会画画的美工 / Alibaba TXD",
+        "intro": "16 级 / Web 前端 / 美工 / 阿里云搬砖",
         "avatar": require("../../images/avatar/Cyris.jpg"),
         "url": "https://cyris.moe/"
     },
