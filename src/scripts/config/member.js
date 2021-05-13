@@ -187,7 +187,7 @@ export default [{
     {
         "id": "Cyris",
         "intro": "16 级 / Web 前端 / 美工 / 阿里云搬砖",
-        "avatar": require("../../images/avatar/Cyris.jpg"),
+        "avatar": 'https://cdn.jsdelivr.net/npm/cyris/images/avatar.png',
         "url": "https://cyris.moe/"
     },
     {
