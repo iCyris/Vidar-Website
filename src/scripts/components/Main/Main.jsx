@@ -63,14 +63,6 @@ export default withRouter((props) => {
                     Home
                 </a>
                 <span>/</span>
-                <a className="link__item" href="https://drops.vidar.club/" target="_blank">
-                    Drops
-                </a>
-                <span>/</span>
-                <a className="link__item" href="https://ctf.vidar.club/" target="_blank">
-                    CTF
-                </a>
-                <span>/</span>
                 <a className="link__item" href="https://wiki.vidar.club/" target="_blank">
                     Wiki
                 </a>
