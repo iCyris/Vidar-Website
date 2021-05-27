@@ -198,7 +198,7 @@ export default [{
     },
     {
         "id": "b0lv42",
-        "intro": "16 级 / 啥也不会 / 业余美工专业打杂 / 万年不写博 / WOW 评级上分可找我（逃",
+        "intro": "16级 / 大果子 / 毕业1年仍在寻找vidar娘接盘侠",
         "avatar": require("../../images/avatar/b0lv42.jpg"),
         "url": "https://b0lv42.github.io/"
     },
@@ -233,10 +233,10 @@ export default [{
         "url": "https://blog.0e1.top"
     },
     {
-        "id": "Mki603",
-        "intro": "17 级 / Web / 沙雕开发 / 列表最穷",
-        "avatar": require("../../images/avatar/mki603.jpg"),
-        "url": "http://mki.design"
+        "id": "迟原静",
+        "intro": "17级 / Focus on Java Security",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=xyVPFvQ2dWReoBiahd7naSw&s=640",
+        "url": "#"
     },
     {
         "id": "Ch1p",
@@ -258,38 +258,38 @@ export default [{
     },
     {
         "id": "ACce1er4t0r",
-        "intro": "17 级 / Web 狗如何在险恶的 CTF 中存活 / 学习 & 摸鱼中",
-        "avatar": require("../../images/avatar/ACce1er4t0r.jpg"),
-        "url": "https://www.vctorcontrol.cn"
+        "intro": "17级 / 普通的ctfer / 尝试变成全栈 / 找不到工作",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=gRBlwiawx1lF4UkPKh4Liczg&s=640",
+        "url": "#"
     },
     {
         "id": "MiGo",
-        "intro": "17 级 / 炼丹中 / meaqua 箱推人 / 有人带我打游戏吗",
-        "avatar": require("../../images/avatar/MiGo.jpg"),
+        "intro": "17级 / 二战人 / 老二次元 / 兴趣驱动生活",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=XzZggL7hDeicLXb2FSic6sfg&s=640",
         "url": "https://migoooo.github.io/"
     },
     {
-        "id": "Insomnia",
-        "intro": "17 级 / Web 安全 / 运维大师的小弟",
-        "avatar": require("../../images/avatar/Insomnia.jpg"),
+        "id": "BrownFly",
+        "intro": "17级 / RedTeamer / 字节跳动安全工程师",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=EnNslsFelj9HibuKoNHwmyg&s=640",
         "url": "https://brownfly.github.io"
     },
     {
         "id": "Aris",
-        "intro": "17 级 / 没有灵魂的 Pwn 手 / key 厨",
-        "avatar": require("../../images/avatar/aris.jpg"),
+        "intro": "17级/ Key厨 / 腾讯玄武倒水的",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=anjeaJmx1X79Yp1DNxWrRA&s=640",
         "url": "https://blog.ar1s.top"
     },
     {
-        "id": "oyiadin",
-        "intro": "17 级 / 深度智障 / 机器瞎子 / 精通 CNN、RNN、LSTM 的拼写 / 精通摸鱼",
-        "avatar": require("../../images/avatar/oyy.jpg"),
-        "url": "https://blog.b1n.top/"
+        "id": "hsiaoxychen",
+        "intro": "17级 / 游戏厂打工仔 / 来深圳找我快活",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=YGiaicyZ3NkWfOoGOlLPWvAw&s=640",
+        "url": "https://chenxy.me"
     },
     {
         "id": "Lou00",
-        "intro": "17 级 / Web / ../",
-        "avatar": require("../../images/avatar/lou.jpg"),
+        "intro": "17级 / web / 东南读研",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=fdAMuUicvOObMv3eZC8y0Ew&s=640",
         "url": "https://blog.lou00.top"
     },
     {
@@ -300,9 +300,10 @@ export default [{
     },
     {
         "id": "Cosmos",
-        "intro": "18 级 / 逆不了 / Pwn 不出 / 尽梨了",
+        "intro": "18级 / 莫得灵魂的开发 / 茄粉 / 作豚 /  米厨",
+    
         "avatar": require("../../images/avatar/cosmos.jpg"),
-        "url": "https://shcosmos.github.io"
+        "url": "https://cosmos.red"
     },
     {
         "id": "Y",
@@ -312,8 +313,8 @@ export default [{
     },
     {
         "id": "Annevi",
-        "intro": "18 级 / Web 底层",
-        "avatar": require("../../images/avatar/Annevi.jpg"),
+        "intro": "18级 / 会点开发的退休web手 / 想学挖洞 / 混吃等死",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=WN9x96MpjSJ3Gc7a3SHtDw&s=640",
         "url": "https://annevi.cn"
     },
     {
@@ -324,27 +325,27 @@ export default [{
     },
     {
         "id": "Kevin",
-        "intro": "18 级 / Web 菜鸡 / CDPR粉",
+        "intro": "18 级 / Web / 车万",
         "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=jaXAqywDMbia39e4OfGXicPQ&s=640",
         "url": "https://harmless.blue/"
     },
     {
         "id": "LurkNoi",
-        "intro": "18 级 / 不是学姐 / 不务正业 / MC 打杂",
-        "avatar": require("../../images/avatar/LurkNoi.jpg"),
+        "intro": "18级 / 会一丢丢crypto / 摸鱼",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=CLTlN5QPS3aI60icIoxGmdQ&s=640",
         "url": "#"
     },
     {
         "id": "幼稚园",
-        "intro": "18 级 / Re / Linux / CS 只会干拉",
-        "avatar": require("../../images/avatar/youzhiyuan.jpg"),
-        "url": "https://www.danisjiang.com/"
+        "intro": "18级会长 / 二进制安全 /  干拉",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=G2o7mX9RCTkiaCHeEiaJLBwA&s=640",
+        "url": "https://danisjiang.com"
     },
     {
-        "id": "rosetta",
-        "intro": "18 级 / Java / whatever / 考研懒狗",
-        "avatar": require("../../images/avatar/rosetta.jpg"),
-        "url": "http://47.107.239.93/"
+        "id": "lostflower",
+        "intro": "18级 / 游戏引擎开发 / 尚有梦想的game maker",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=eQHtN69C2tgM8Ul8PmtTKw&s=640",
+        "url": "https://r000setta.github.io"
     },
     {
         "id": "Roc826",
@@ -360,9 +361,9 @@ export default [{
     },
     {
         "id": "ObjectNotFound",
-        "intro": "18 级 / Web 真·菜鸡 / Linux 真好玩 / 杂学者 / 划水",
-        "avatar": require("../../images/avatar/ObjectNotFound.jpg"),
-        "url": "https://www.zhouweitong.site/"
+        "intro": "18级 / 懂点Web & Misc / 懂点运维 / 正在懂游戏引擎 / 我们联合！",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=yQnkF86Uy6UkZrZmFYLL4g&s=640",
+        "url": "https://www.zhouweitong.site"
     },
     {
         "id": "Moesang",
@@ -372,9 +373,9 @@ export default [{
     },
     {
         "id": "E99p1ant",
-        "intro": "18 级 / 开发菜鸡 / Web 摸鱼选手",
-        "avatar": require("../../images/avatar/E99p1ant.jpg"),
-        "url": "https://github.red"
+        "intro": "18级 / 囊地鼠饲养员 / 写了一个叫 Cardinal 的平台",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=AJQ9RJRCavhSibMZtRq2JOQ&s=640",
+        "url": "https://github.red/"
     },
     {
         "id": "Michael",
@@ -383,79 +384,153 @@ export default [{
         "url": "http://michaelsblog.top/"
     },
     {
-        "id": "MATRIX",
-        "intro": "18 级 / 不会 Pwn 的 Bin 选手 / 主机游戏爱好者",
+        "id": "matrixtang",
+        "intro": "18级 / 编译器工程师( 伪 / 半吊子PL- 静态分析方向",
         "avatar": require("../../images/avatar/MATRIX.jpg"),
         "url": "#"
-    }, {
+    },
+    {
         "id": "r4u",
         "intro": "18级 / 不可以摸🐠哦",
         "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=rJCqQv1EzicpDW77nMa5bYw&s=640",
         "url": "http://r4u.top/"
-    }, {
+    },
+    {
         "id": "357",
         "intro": "18级 / 并不会web / 端茶送水选手",
         "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=POaV9Y85NiaUcibaETEKTpfw&s=640",
         "url": "#"
-    }, {
+    },
+    {
         "id": "Akira",
-        "intro": "19级 / 硬件专业的web底层 / 拉邦结π / 想学运维 / 带带弟弟",
+        "intro": "19级 / 不会web / 半吊子运维 / 今天您漏油了吗",
         "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=ku1vqyI1hLJr61PGIlic7Ow&s=640",
-        "url": "https://4k1ra.tech/"
-    }, {
-        "id": "fl0a1e",
-        "intro": "19级 / 日常摸🐟 / 上面下面的大佬们带带弟弟 / 肝图 / 真·安全菜鸡",
+        "url": "https://4kr.top"
+    },
+    {
+        "id": "qz",
+        "intro": "19级 / 摸鱼美工 / 学习图形学、渲染ing",
         "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=q5qVDcvyzxee4qiays52mibA&s=640",
         "url": "https://fl0.top/"
-    }, {
-        "id": "sw1tch",
-        "intro": "19级 / 歪脖手，喜欢把东西注进去，不是胖手，不会病",
+    },
+    {
+        "id": "Switch",
+        "intro": "19级 / 脖子笔直歪脖手",
         "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=E3j3BJrsAfyl1arfnFKufQ&s=640",
-        "url": "http://www.chriswitch.tk"
-    }, {
+        "url": "https://me.liki.link/"
+    },
+    {
         "id": "0x4qE",
         "intro": "19级 / &lt;/p&gt;&lt;p&gt;Web",
         "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=K7icYial1VVzlNl7hrD9MlNw&s=640",
         "url": "https://github.com/0x4qE"
-    }, {
+    },
+    {
         "id": "xi4oyu",
         "intro": "19级 / 骨瘦如柴的胖手",
         "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=JfeMY6Lz5ZU4GmtTV85otQ&s=640",
-        "url": "https://www.xi4oyu.top"
-    }, {
+        "url": "https://www.xi4oyu.top/"
+    },
+    {
         "id": "R3n0",
         "intro": "19级 / bin底层选手",
         "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=icY08gnMlXtoYIJ9ib3eJQ2g&s=640",
         "url": "https://r3n0.top"
-    }, {
+    },
+    {
         "id": "m140",
-        "intro": "19级 / 不会Re / 什么时候我会胖呀 / 摸🐟",
+        "intro": "19级 / 不会re / dl萌新 / 太弱小了，没有力量 / 想学游戏",
         "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=zt0iccbnGuV8dOpXIYrJgvg&s=640",
         "url": "#"
-    }, {
+    },
+    {
         "id": "Mezone",
         "intro": "19级 / 普通的binary爱好者。",
         "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=rDD29iahzzg8AvQX7fdbFPg&s=640",
         "url": "#"
-    }, {
+    },
+    {
         "id": "d1gg12",
-        "intro": "19级 / 摸🐟人 / pwn / 杂学",
+        "intro": "19级 / 魂学家 / 🐟粉",
         "avatar": require("../../images/avatar/d1gg12.jpg"),
-        "url": "https://www.thesoldierjack.cn/"
-    }, {
+        "url": "https://d1gg12.github.io/"
+    },
+    {
         "id": "Trotsky",
-        "intro": "19级 / Web划水 / 安卓摸🐟 / P社玩家 / 永远的果黑",
+        "intro": "19级 / 半个全栈 / 安卓摸🐟 / P 社玩家 / 🍆粉",
         "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=LiasEshjTXTrNzJjPHVY3Vw&s=640",
         "url": "https://altonhe.github.io/"
-    }, {
+    },
+    {
         "id": "Gamison",
         "intro": "19级 / 挖坑不填的web选手",
         "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=0VaAu2go9mvrMXu1ibmKy1g&s=640",
         "url": "http://aw.gamison.top"
-    }, {
+    },
+    {
         "id": "Tinmix",
-        "intro": "19级 / Web划水 / 深度学习爱好者 / VCB-Studio常客",
+        "intro": "19级会长 / DL爱好者 / web苦手",
         "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=L2EclrAltb7lk3LBPY6oWA&s=640",
         "url": "http://poi.ac"
+    },
+    {
+        "id": "Rt",
+        "intro": "19级 / 假装懂一点WINDOWS的RE手",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=p1TD1qwKfEK8NZExRDqic1A&s=640",
+        "url": "https://wr-web.github.io"
+    },
+    {
+        "id": "Potat0",
+        "intro": "20级 / 乐色Re手 / 顺带做一做Misc",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=NicTy1CDqeHsgzbZEIUU2wg&s=640",
+        "url": "https://potat0.cc/"
+    },
+    {
+        "id": "Summer",
+        "intro": "20级 / 歪脖手 / 想学运维 / 发呆业务爱好者",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=4y6zxTBSB3cbseeyPvQWng&s=640",
+        "url": "https://blog.m1dsummer.top"
+    },
+    {
+        "id": "chuj",
+        "intro": "20级 / 普通 PWN手 / 国际冣偄 / 不好好学习，生活中就会多出许多魔法和奇迹",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=aM4tJSQSxB5gcauIMDEtUg&s=640",
+        "url": "https://cjovi.icu/"
+    },
+    {
+        "id": "4nsw3r",
+        "intro": "20级 / re / 不会pwn / 没有博客",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=j3LOiav9IluKSYg1VEibblZw&s=640",
+        "url": "#"
+    },
+    {
+        "id": "4ctue",
+        "intro": "20级 / 可能是IOT的MISC手 / 可能是美工 / 废物晚期",
+        "avatar": require("../../images/avatar/4ctue.jpg"),
+        "url": "#"
+    },
+    {
+        "id": "0wl",
+        "intro": "20级 / Re手 / 菜",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=06FRYslcuprt59OxibicdhqQ&s=640",
+        "url": "https://0wl-alt.github.io"
+    },
+    {
+        "id": "At0m",
+        "intro": "20级 / web / 想学iot",
+        "avatar": require("../../images/avatar/at0m.png"),
+        "url": "https://homeboyc.cn/"
+    },
+    {
+        "id": "ChenMoFeiJin",
+        "intro": "20级 / Crypto / 摸鱼学代师",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=5xyCaLib3lovjrUzf5pWxDQ&s=640",
+        "url": "https://chenmofeijin.top"
+    },
+    {
+        "id": "Klrin",
+        "intro": "20级 / WEB / 菜的抠脚 / 想学GO",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&k=nnzEWNwxMS88jKYre5fOjg&s=640",
+        "url": "https://blog.mjclouds.com/"
     }
 ]
