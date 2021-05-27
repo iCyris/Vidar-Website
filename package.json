@@ -27,9 +27,11 @@
     "typed.js": "^2.0.10"
   },
   "dependencies": {
+    "@popperjs/core": "^2.9.2",
     "node-sass": "^4.13.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-popper": "^2.2.5",
     "react-router-dom": "^5.0.0",
     "sass-loader": "^7.1.0"
   }
