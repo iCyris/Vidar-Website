@@ -38,14 +38,38 @@
                 }
 
                 &:nth-child(1) i { background-image: url("../images/github-logo.svg"); }
-                &:nth-child(2) i { background-image: url("../images/weibo-logo.svg"); }
+                &:nth-child(2) i { background-image: url("../images/weixin-logo.svg"); }
+            }
+
+            .footer__popper {
+                background-color: #fff;
+                padding: .2rem;
+                border-radius: 5%;
+                width: 10rem;
+                height: 10rem;
+                z-index: 200;
+
+                &:before {
+                    position: absolute;
+                    z-index: -1;
+                    content: "";
+                    right: calc(50% - 10px);
+                    bottom: -8px;
+                    border-style: solid;
+                    border-width: 10px 10px 0 10px;
+                    border-color: #fff transparent transparent transparent;
+                }
+
+                .footer__qr-code {
+                    width: 100%;
+                }
             }
         }
 
         ._contact {
             height: 5vmin;
 
-            .footer__email, .footer__line, .footer__beian {
+            .footer__email, .footer__line, .footer__beian{
                 position: relative;
                 display: inline-block;
                 line-height: 5vmin;
